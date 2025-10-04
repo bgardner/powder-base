@@ -131,28 +131,3 @@ textarea {
 .wp-block-navigation__responsive-container.is-menu-open .wp-block-navigation__submenu-container {
 	padding: 5px 10px 0 !important;
 }
-
-/* Media Queries
----------------------------------------- */
-
-@media only screen and (min-width: 600px) {
-
-	/* -- Header -- */
-
-	.site-header {
-		background-color: var(--wp--preset--color--base);
-		position: sticky;
-		top: 0;
-		transition: transform 0.5s ease;
-		z-index: 1000;
-	}
-	
-	body.scroll-down .site-header {
-		transform: translateY(-100%);
-	}
-	
-	body.scroll-up .site-header {
-		transform: translateY(0);
-	}
-
-}
