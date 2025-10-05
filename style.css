@@ -17,10 +17,6 @@ Text Domain: powder
 /* Defaults
 ---------------------------------------- */
 
-html {
-	scroll-behavior: smooth;
-}
-
 a,
 button,
 .wp-element-button {
