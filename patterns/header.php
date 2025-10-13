@@ -2,7 +2,7 @@
 /**
  * Title: Site header
  * Slug: powder/header
- * Categories: powder-header
+ * Categories: header
  * Block Types: core/template-part/header
  */
 ?>

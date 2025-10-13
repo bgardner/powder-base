@@ -2,7 +2,7 @@
 /**
  * Title: Site footer
  * Slug: powder/footer
- * Categories: powder-footer
+ * Categories: footer
  * Block Types: core/template-part/footer
  */
 ?>
