@@ -9,7 +9,7 @@ License URI: https://www.gnu.org/licenses/gpl-3.0.html
 
 == Description ==
 
-Built on simplicity, shaped by precision, defined by style.
+Built on simplicity, shaped with purpose, defined by style.
 
 == Community ==
 
