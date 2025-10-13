@@ -92,16 +92,6 @@
 			"contentSize": "600px",
 			"wideSize": "1280px"
 		},
-		"shadow": {
-			"defaultPresets": false,
-			"presets": [
-				{
-					"name": "Light",
-					"shadow": "0 0 10px rgb(0, 0, 0, 0.1)",
-					"slug": "light"
-				}
-			]
-		},
 		"spacing": {
 			"defaultSpacingSizes": false,
 			"spacingSizes": [
@@ -453,7 +443,6 @@
 			"background": "var(--wp--preset--color--base)",
 			"text": "var(--wp--preset--color--contrast)"
 		},
-		"css": "::selection { background-color: var(--wp--preset--color--secondary); color: var(--wp--preset--color--contrast); }",
 		"elements": {
 			"button": {
 				"border": {
