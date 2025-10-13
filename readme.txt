@@ -9,7 +9,7 @@ License URI: https://www.gnu.org/licenses/gpl-3.0.html
 
 == Description ==
 
-Powder embraces its minimalist roots with clarity and balance, offering a resilient base for infinite creativity.
+Built on simplicity, shaped by precision, defined by style.
 
 == Community ==
 
